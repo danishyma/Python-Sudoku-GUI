@@ -1,7 +1,7 @@
 # Python-Sudoku-GUI
 
-Sudoku solver created using recursive algorithm with backtracking based on MIT open course Programming for the Puzzled;
-Sudoku GUI (based on Tech Tim's https://bit.ly/2Ul0O57) using pygame and tkinter.
+The Sudoku solver was cereated using recursive algorithm with backtracking inspired on the lecture from MIT open course Programming for the Puzzled https://ocw.mit.edu;
+And the Sudoku GUI in my take of the code inspired on Tech Tim's https://bit.ly/2Ul0O57 bersion and was coded using pygame library.
 
 Added features and changes to Sudoku GUI:
 - randomized boards
